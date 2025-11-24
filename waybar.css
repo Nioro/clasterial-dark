@@ -1,0 +1,10 @@
+@define-color background #141414;
+@define-color foreground #ffffff;
+
+* {
+  border: none;
+  border-radius: 10px;
+  min-height: 0;
+  font-family: 'SF Pro Text';
+  font-size: 13px;
+}
